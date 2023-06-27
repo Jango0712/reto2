@@ -1,0 +1,1 @@
+Al añadir en el git ignore, la carpeta reto2 y .png se ignora directamente la carpeta y aquellos archivos que tengan la terminación .png.
